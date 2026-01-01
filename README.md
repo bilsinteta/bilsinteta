@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30">
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/muhammad-nabil-fatahilah/">
+  <a href="LINK_LINKEDIN_ANDA_DISINI">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30">
   </a>
 </div>
@@ -52,11 +52,10 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilsinteta&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
-  
-  <br/>
-  <br/>
+### 🏆 Featured Projects
 
-  <img src="https://github-profile-trophy.vercel.app/?username=bilsinteta&theme=onestar&no-frame=true&column=4&margin-w=15&margin-h=15" alt="trophy" />
-</div>
+| Project | Stack | Status |
+| :--- | :--- | :--- |
+| **[Finance Tracker AI](https://github.com/bilsinteta/finance-tracker)** | `Golang` `AI` | 🟢 Public |
+| **https://www.shorturl.at/(https://github.com/bilsinteta/url-shortener)** | `Golang` `React` | 🟢 Public |
+| **[Golang Testing Kit](https://github.com/bilsinteta/belajar-golang-unit-test)** | `Golang` `TDD` | 🟢 Public |
