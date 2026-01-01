@@ -35,17 +35,6 @@
 
 <br/>
 
-### 🏆 Featured Projects
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[Finance Tracker AI](https://github.com/bilsinteta/finance-tracker)** | Smart budgeting app with **Google AI** integration for financial advice. | `Golang` `React` `AI` |
-| **https://www.shorturl.at/(https://github.com/bilsinteta/url-shortener)** | Link manager with **Custom Alias**, Expiration, & QR Code generator. | `Golang` `React` `Docker` |
-| **[Heart Disease Analysis](https://github.com/bilsinteta/Heart-Disease-Prediction---using-R)** | Statistical analysis & risk prediction using valid/reliable testing. | `R Studio` `Statistics` |
-| **[Golang Testing Kit](https://github.com/bilsinteta/belajar-golang-unit-test)** | A comprehensive library/blueprint for Golang Unit Testing & Mocking. | `Golang` `Testify` |
-
-<br/>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bilsinteta&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilsinteta&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
