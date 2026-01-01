@@ -1,12 +1,16 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=280&section=header&text=Hi,%20I'm%20Nabil!&fontSize=70&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Backend%20Developer%20(Golang)%20%7C%20Data%20Enthusiast&descAlignY=60&descAlign=50" width="100%"/>
-  
-  <br/>
+</div>
 
-  <p align="center">
-    Focusing on building <b>scalable backend systems</b>, <b>interactive web apps</b>, and <b>data-driven solutions</b>.
-  </p>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3382ED&center=true&vCenter=true&width=500&lines=Building+Scalable+Backend+Systems;Crafting+Interactive+Web+Apps;Exploring+Data-Driven+Solutions;Always+Learning+New+Tech+Stack" alt="Typing SVG" />
+  </a>
+</div>
 
+<br/>
+
+<div align="center">
   <a href="mailto:mnabilfatahilah@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30">
   </a>
@@ -49,5 +53,3 @@
     </tr>
   </table>
 </div>
-
-<br/>
