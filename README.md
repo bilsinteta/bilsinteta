@@ -1,16 +1,52 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=250&section=header&text=Hi,%20I'm%20Nabil!&fontSize=70&fontColor=ffffff&fontAlignY=40" width="100%"/>
+  
+  <h3>🚀 Full Stack Developer (Golang) | Data Enthusiast</h3>
+  
+  <p>
+    Focusing on building scalable backend systems, interactive web apps, and data-driven solutions.
+  </p>
 
-<!--
-**bilsinteta/bilsinteta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <a href="mailto:mnabilfatahilah@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mnabilfatahilah%40gmail.com-red?style=flat-square&logo=gmail">
+  </a>
+  <a href="LINK_LINKEDIN_ANDA">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin">
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R_Language-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  
+  <br/>
+  
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
+
+<br/>
+
+### 🏆 Featured Projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[Finance Tracker AI](https://github.com/bilsinteta/finance-tracker)** | Smart budgeting app with **Google AI** integration for financial advice. | `Golang` `React` `AI` |
+| **https://www.shorturl.at/(https://github.com/bilsinteta/url-shortener)** | Link manager with **Custom Alias**, Expiration, & QR Code generator. | `Golang` `React` `Docker` |
+| **[Heart Disease Analysis](https://github.com/bilsinteta/Heart-Disease-Prediction---using-R)** | Statistical analysis & risk prediction using valid/reliable testing. | `R Studio` `Statistics` |
+| **[Golang Testing Kit](https://github.com/bilsinteta/belajar-golang-unit-test)** | A comprehensive library/blueprint for Golang Unit Testing & Mocking. | `Golang` `Testify` |
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bilsinteta&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilsinteta&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
+</div>
