@@ -51,11 +51,3 @@
 </div>
 
 <br/>
-
-### 🏆 Featured Projects
-
-| Project | Stack | Status |
-| :--- | :--- | :--- |
-| **[Finance Tracker AI](https://github.com/bilsinteta/finance-tracker)** | `Golang` `AI` | 🟢 Public |
-| **https://www.shorturl.at/(https://github.com/bilsinteta/url-shortener)** | `Golang` `React` | 🟢 Public |
-| **[Golang Testing Kit](https://github.com/bilsinteta/belajar-golang-unit-test)** | `Golang` `TDD` | 🟢 Public |
