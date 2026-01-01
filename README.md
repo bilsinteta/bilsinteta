@@ -12,11 +12,10 @@
 
 <div align="center">
   <a href="mailto:mnabilfatahilah@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
   </a>
-  &nbsp;
   <a href="LINK_LINKEDIN_ANDA_DISINI">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
   </a>
 </div>
 
