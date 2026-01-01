@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=250&section=header&text=Hi,%20I'm%20Nabil!&fontSize=70&fontColor=ffffff&fontAlignY=40" width="100%"/>
-  
-  <h3>🚀 Full Stack Developer (Golang) | Data Enthusiast</h3>
+  <h3>🚀 Backend Developer (Golang) | Data Enthusiast</h3>
   
   <p>
     Focusing on building scalable backend systems, interactive web apps, and data-driven solutions.
