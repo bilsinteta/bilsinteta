@@ -53,6 +53,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bilsinteta&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilsinteta&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&langs_count=6" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bilsinteta&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" height="150" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilsinteta&theme=dark&hide_border=true&background=0D1117" height="150" />
 </div>
