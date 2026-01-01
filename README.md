@@ -53,7 +53,10 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bilsinteta&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilsinteta&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilsinteta&theme=dark&hide_border=true&background=0D1117" height="150" />
+  <br/>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=bilsinteta&theme=onestar&no-frame=true&column=4&margin-w=15&margin-h=15" alt="trophy" />
 </div>
